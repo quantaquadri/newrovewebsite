@@ -4893,7 +4893,8 @@ img.circle {
 
 
 .feature-12{
-	padding-bottom: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
 }
 
 @media (max-width: 479px){
